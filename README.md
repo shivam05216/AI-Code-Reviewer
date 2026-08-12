@@ -72,22 +72,39 @@ View the AI-generated code review, including identified issues and recommended i
 --- 
 
 User
+
   ↓
+  
 Enter Source Code
+
   ↓
+  
 React Frontend
+
   ↓
+  
 Send Code to Backend
+
   ↓
+  
 Express API
+
   ↓
+  
 Gemini AI
+
   ↓
+  
 Analyze Source Code
+
   ↓
+  
 Generate Review
+
   ↓
+  
 Display Review
+
 ---
 
 ##💡 Example
